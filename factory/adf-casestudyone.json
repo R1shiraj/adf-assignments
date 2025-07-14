@@ -1,0 +1,9 @@
+{
+	"name": "adf-casestudyone",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "db2497df-4f05-446f-974a-ffe4f0a13bd0",
+		"tenantId": "a52b6499-8281-4ba0-bb94-e8772e5cfca4"
+	}
+}
